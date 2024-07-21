@@ -6,9 +6,9 @@ import Carousel from "./Carousel";
 function App() {
   return (
     <>
+      <Register />
       <Router>
         <Routes>
-          <Route path="/" element={<Register />} />
           <Route path="/carousel" element={<Carousel />} />
         </Routes>
       </Router>
