@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_FSD/static/css/main.0e0e29a8.css",
+    "main.js": "/React_FSD/static/js/main.ba21edaa.js",
+    "index.html": "/React_FSD/index.html",
+    "main.0e0e29a8.css.map": "/React_FSD/static/css/main.0e0e29a8.css.map",
+    "main.ba21edaa.js.map": "/React_FSD/static/js/main.ba21edaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e0e29a8.css",
+    "static/js/main.ba21edaa.js"
+  ]
+}
